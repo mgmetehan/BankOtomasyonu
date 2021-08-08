@@ -1,7 +1,9 @@
 # BankOtomasyonu
 
 PROJE KONUSU:İNTERNET BANKACILIĞI OTOMASYONU
+</br>
 PROJENİN YAZILDIĞI DİLİ:JAVA
+</br>
 PROJEDE KULLANILAN VERİ TABANI:MYSQL 
 
 !Github’a kullanım videosunu koydum isterseniz bakabilirsiniz.
