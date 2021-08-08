@@ -193,21 +193,32 @@ KİŞİLER TABLOSU:
 KisiId: Primary key ve auto increment olarak tanımlanmıştır. Bu sayede 
 kullanıcıların hepsi artan id değerleri alıp eşsiz olacak. 
 Diğer sütunlarda kişiler için gerekli kişisel bilgileri var. 
+</br>
 Kişiler Tablosundaki Veriler: 
+</br>
 KisiAd: Kullanıcı adlarını tutan bir veri sütünü Varchar olarak tanımlandı. 
+</br>
 KisiSoyad: Kullanıcı Soyadlarını tutan bir veri sütunu Varchar olarak tanımlandı. 
+</br>
 KisiTc: Kullanıcı TC numaralarını tutan bir veri sütunu Varchar olarak tanımlandı. 
+</br>
 KisiIl: Kullanıcı doğum yerini tutan bir veri sütunu Varchar olarak tanımlandı. 
+</br>
 KisiAnneSoyad: Kullanıcı anne kızlık soyadını tutan bir veri sütunu Varchar 
 olarak tanımlandı. 
+</br>
 KisiPara: Kullanıcının bakiyesini tutan bir veri sütunu Integer olarak tanımlandı. 
+</br>
 KisiBorc: Kullanıcının borcunu tutan bir veri sütunu Integer olarak tanımlandı. 
+</br>
 KisiTelefon: Kullanıcının telefon numarasını tutan bir veri sütunu Varchar olarak 
 tanımlandı. 
+</br>
 KisiSifre: Kullanıcının şifresini tutan bir veri sütunu Varchar olarak tanımlandı. 
+</br>
 KisiCinsiyet: Kullanıcının cinsiyetini tutan bir veri sütunu Varchar olarak 
 tanımlandı.
-
+</br>
 
 
 3)  UYGULAMANIN KULLANIMI HAKKINDA YARDIM BİLGİLERİ
