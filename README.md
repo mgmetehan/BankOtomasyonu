@@ -49,247 +49,135 @@ INTRO EKRANI:
 Start.java
 </br>
 ![start](https://user-images.githubusercontent.com/41691766/128638594-53dc0a4e-c2e9-4ded-8785-52b3911a4e83.png)
+</br>
 Uygulamayı başlattığımızda bankanın ismi ve simgesi bulunan bir açılış ekranı başlıyor.
-
-
-
 
 
 GİRİŞ EKRANI:
 LoginAtm.java
 Fotoğraf1
+</br>
  ![login](https://user-images.githubusercontent.com/41691766/128638596-be3ea117-e9ea-40ed-bac3-6ba63ab292eb.png)
+ </br>
 Bu ekranda kullanıcı üye ise T.C no’su ve şifresi ile hesabına giriş yapıyor. Eğer kullanıcı şifresini unuttuysa şifremi unuttum ekranına gide biliyor. Kullanıcı yeni üye ol diyerek üye olma ekranına geçebilecek.
-
-
-
-
-
-
-
-
-
 
 
 ŞİFREMİ UNUTTUM EKRANI:
 SifremiUnuttum.java
 Fotoğraf2
+</br>
 ![SifremiUnuttum](https://user-images.githubusercontent.com/41691766/128638598-fddaba09-4a57-4abc-a70d-0f213dacfd01.png) 
-
+</br>
 Kullanıcı T.C kimlik numarası ve üye olurken belirtiği anne kızlık soyadı ile şifresini tekrar öğrenebilecek.
-
-
-
-
-
 
 
 YENİ ÜYE OL EKRANI:
 YeniUye.java
 Fotoğraf3
+</br>
  ![YeniUye](https://user-images.githubusercontent.com/41691766/128638603-4b54f352-18c9-479b-9ebd-da5cc3ff66e5.png) 
-
+</br>
 Bu ekranda kullanıcı kişisel bilgilerini vererek yeni kayıt oluşturabilecek.
-
-
-
-
-
-
-
-
-
 
 
 HESAP EKRANI:
 Hesap.java
 Fotoğraf4
+</br>
 ![Hesap](https://user-images.githubusercontent.com/41691766/128638607-3e00ed5c-b318-48ce-838c-b33e7fe9a4c7.png) 
+</br>
 Bu ekranda kullanıcı sistemde bulunan özellikleri kolayca kullana bilecek.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 PARA ÇEKME EKRANI:
 ParaCek.java
 Fotoğraf5
+</br>
  ![ParaCek](https://user-images.githubusercontent.com/41691766/128638609-73c7d161-bf11-4c8c-9357-40e7ce2f4f7f.png)
-
+</br>
 Bu ekrandan kullanıcı hesabında olan parayı çekebilecek. Çekilen tutarı sistem hesaptan otomatik olarak düşecek. Hesapta bulunandan fazla çekme durumunda sistem uyarı verecek.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 PARA YATİRMA EKRANI:
 ParaYatir.java
 Fotoğraf6
+</br>
 ![ParaYatir](https://user-images.githubusercontent.com/41691766/128638615-9af71778-a87b-408b-8beb-4f29c01520eb.png) 
-
-
+</br>
 Bu ekranda kullanıcı hesabına para yatırabilir. Mevcut borçlarını ödemek içinde diğer ekrana geçiş yapabilir.
-
-
-
-
-
-
-
-
-
-
 
 
 BORÇ ÖDEME EKRANI:
 BorcOde.java
 Fotoğraf7
+</br>
 ![BorcOde](https://user-images.githubusercontent.com/41691766/128638617-975fee4b-1383-46cc-a5ad-0a7198f9123d.png) 
+</br>
 Bu ekrandan kullanıcı hesabında olan paradan borç ödemesini yapabilecek.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 HAVALE EKRANI:
 Havale.java
 Fotoğraf8
+</br>
 ![Havale](https://user-images.githubusercontent.com/41691766/128638619-68603f6e-bd3e-4ea0-8e95-cbd62051592b.png) 
-
+</br>
 Bu ekrandan kullanıcı istediği bir hesaba mevcut parasından istediği kadar tutarı yollayabilecek. Giden ve gelen para hesaplara otomatik işlenecek.
-
-
-
-
-
 
 
 
 
 RANDOM ŞİFRE OLUŞTURMA EKRANI:
 Hesap.java
+</br>
  ![randomsifre](https://user-images.githubusercontent.com/41691766/128638621-00dd62bd-fd85-413b-83ee-13c0e8c1efb6.png)
+</br>
 Bu ekran ile kullanıcı banka şifresi için oluşturulan bir şifre görebilecek.
 
 HESAP DETAYLARI EKRANI:
 Hesap.java
+</br>
  ![HesapDetaylari](https://user-images.githubusercontent.com/41691766/128638622-5b462222-a4b3-43cc-bef5-3fdfe7ac0a0a.png)
+</br>
 Bu ekran ile kullanıcı tüm bilgilerini görebilecek.
 
 BORÇLARI GÖSTERME EKRANI:
 Hesap.java
+</br>
  ![BorclariGoster](https://user-images.githubusercontent.com/41691766/128638623-5a1463e7-4606-4d2f-b0b0-4c1088140d50.png)
+</br>
 Bu ekran ile kullanıcı tüm borçlarını görebilecek.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 KREDİ ÇEKME EKRANI:
 KrediHesapla.java
 Fotoğraf9
+</br>
 ![KrediHesapla](https://user-images.githubusercontent.com/41691766/128638626-1cf51dff-bb6a-45e2-8aae-233893df0fe9.png) 
-
+</br>
 Bu ekran ile kullanıcı bankanın belirlediği faiz oranı ile bir kredi çekebilir. Hesapla buttonu ile kendine göre en iyi miktarı bulduktan sonra krediye başvura bilir. Kredi onaylanınca hesabına para yatıyor ve borç kısmında mevcut borçlarına kredi yansıyor.
-
-
-
-
-
-
-
 
 
 KULLANICI AYARLARI EKRANI:
 KullaniciAyarlari.java
 Fotoğraf10
+</br>
  ![KullaniciAyarlari](https://user-images.githubusercontent.com/41691766/128638627-40d2b311-2f17-4d89-bd14-b51e95546a0e.png)
+</br>
 Bu ekran ile kullanıcı eski şifresini değiştirebiliyor.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 QR KOD İŞLEM EKRANI:
 QrKodIslemleri.java
 Fotoğraf11
+</br>
  ![QrKodIslemleri](https://user-images.githubusercontent.com/41691766/128638628-b0de3d27-4ed2-4f64-836b-bbe2b815c90c.png)
-
+</br>
 Bu ekran ile kullanıcı para çekmek için bir qr kod yaratabilir daha sonra bu qr kodu okut ile oluşan png’nin ismini .png kısmı hariç yazıp para çekebilirsin.
-
+</br>
 !C:\\BankQr\\ png bu klasörde oluşacak eğer test etmek isterseniz C diskinde BankQr adlı klasör oluşturmanız yeterli.
-
+</br>
 !Oluşan png yerini koddan değiştirmek için QrKodIslemleri.java doyanının 91,103 ci satırlarına o konumu belirtin
-
-
-
-
 
 
 
@@ -299,8 +187,9 @@ Bu ekran ile kullanıcı para çekmek için bir qr kod yaratabilir daha sonra bu
 
 TABLO TANIMLARI 
 KİŞİLER TABLOSU: 
+</br>
 ![VeriTablosu](https://user-images.githubusercontent.com/41691766/128638631-5c3402c9-b46e-421f-9859-e212d7edd702.png)
- 
+ </br>
 KisiId: Primary key ve auto increment olarak tanımlanmıştır. Bu sayede 
 kullanıcıların hepsi artan id değerleri alıp eşsiz olacak. 
 Diğer sütunlarda kişiler için gerekli kişisel bilgileri var. 
