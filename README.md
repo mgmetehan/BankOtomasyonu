@@ -8,7 +8,7 @@ PROJEDE KULLANILAN VERİ TABANI:MYSQL
 
 !Github’a kullanım videosunu koydum isterseniz bakabilirsiniz.
 </br>
-!Verileri eklemek isterseniz GitHub’a MySQL yedeklerini koyacağım.
+!Verileri eklemek isterseniz GitHub’a MySQL yedeklerini koydum.
 
 
 1-A)İNTERNET BANKACILIĞINA DUYULAN İHTİYAÇ
@@ -248,5 +248,8 @@ Fotoğraf 9 da kullanıcı ilk olarak kredi tutarını sonra kaç ay içinde öd
 Fotoğraf10 da kullanıcı T.C no’ sunu girip koymak istediği yeni şifreyi belirterek şifresini değiştirebilir. Şifre 6 haneli olmalıdır.
 
 Fotoğraf11 de kullanıcı hesabından çekmek istediği tutarı yazıp qr oluştur buttonu ile “C:\\BankQr\\”bu klasörün içinde oluşuyor.
+</br>
 !C:\\BankQr\\ png bu klasörde oluşacak eğer test etmek isterseniz C diskinde BankQr adlı klasör oluşturmanız yeterli.
+</br>
 !Oluşan png yerini koddan değiştirmek için QrKodIslemleri.java doyanının 91,103 ci satırlarına o konumu belirtin
+</br>
