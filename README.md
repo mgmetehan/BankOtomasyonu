@@ -5,6 +5,7 @@ PROJENİN YAZILDIĞI DİLİ:JAVA
 PROJEDE KULLANILAN VERİ TABANI:MYSQL 
 
 !Github’a kullanım videosunu koydum isterseniz bakabilirsiniz.
+</br>
 !Verileri eklemek isterseniz GitHub’a MySQL yedeklerini koyacağım.
 
 
