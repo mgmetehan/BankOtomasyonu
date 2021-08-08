@@ -47,6 +47,7 @@ yapabilir.
 
 INTRO EKRANI:
 Start.java
+</br>
 ![start](https://user-images.githubusercontent.com/41691766/128638594-53dc0a4e-c2e9-4ded-8785-52b3911a4e83.png)
 Uygulamayı başlattığımızda bankanın ismi ve simgesi bulunan bir açılış ekranı başlıyor.
 
